@@ -1,0 +1,23 @@
+#######################
+BUGS:
+
+- the Current block.obj, has problems with the UV map
+- speculat lighting doestn wirk properly.. some values are mixed of
+
+
+
+#######################
+TODO:
+- Camera Rotation
+- multi light support
+- Line of sight
+- FOG
+- transform class, to get rid of the pos, rot and scale vectors in the gameobject class
+- learn shaders....
+
+
+######################
+DONE:
+
+- Import the LevelGenerator
+
